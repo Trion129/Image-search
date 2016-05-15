@@ -4,7 +4,7 @@
   "description": "Searches images",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.13.4"
   },
   "devDependencies": {},
   "scripts": {
