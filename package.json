@@ -1,0 +1,29 @@
+{
+  "name": "imagesearch",
+  "version": "1.0.0",
+  "description": "Searches images",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trion129/Image-search.git"
+  },
+  "keywords": [
+    "image",
+    "search",
+    "google",
+    "api"
+  ],
+  "author": "Trion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trion129/Image-search/issues"
+  },
+  "homepage": "https://github.com/Trion129/Image-search#readme"
+}
